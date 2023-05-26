@@ -1,2 +1,1 @@
-# Banco-de-Dados-MySQL-Oracle
-Oracle MySQL
+# Banco de Dados (MySQL Oracle)
